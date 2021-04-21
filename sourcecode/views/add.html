@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <div class="conatiner">
+       <div class="row">
+           <div class="col-12">
+               Add Course
+           </div>
+       </div>
+       <div class="row">
+           <div class="col-12">
+               <form action="/new-course" method="POST">
+                    <div class="form-group">
+                        <label for="id">Enter Id</label>
+                        <input class="form-control" name="id" type="number">
+                    </div>
+                    <div class="form-group">
+                        <label for="name">Name : </label>
+                        <input class="form-control"  name="name" type="text">
+                    </div>
+                    <div class="form-group">
+                        <label for="desc">Description : </label>
+                        <input class="form-control"  name="desc" type="text">
+                    </div>
+                    <div class="form-group">
+                        <label for="amount">Amount : </label>
+                        <input class="form-control"  name="amount" type="number">
+                    </div>
+                    <div class="form-group">
+                       <button type="submit">Submit</button>
+                    </div>
+               </form>
+           </div>
+       </div>
+   </div>
+
+ 
+</body>
+</html>

@@ -1,0 +1,7 @@
+Report.docx
+
+node_modules
+
+
+Screen Shot 2021-04-20 at 8.49.16 PMScreen Shot 2021-04-20 at 8.50.09 PMScreen Shot 2021-04-20 at 8.51.08 PMScreen Shot 2021-04-20 at 8.52.22 PMScreen Shot 2021-04-20 at 8.53.07 PMScreen Shot 2021-04-20 at 8.54.02 PM
+Screen Shot 2021-04-20 at 9.03.57 PM
